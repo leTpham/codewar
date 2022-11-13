@@ -7,7 +7,7 @@
 // rearrange the array to a descending order.
 // convert array into string.
 // convert string into number.
-
+//commenting
 
 function largestDigit(num) { //example: 42176
   let digits = num.toString().split(""); //"42176" => ["4", "2", "1", "7", "6"]
